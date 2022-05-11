@@ -132,10 +132,11 @@ li:nth-last-child(2) {
     p {font-size: 2rem;}
     
     #search-bar {
-        width: 95%;
+        
         height: 40px;
-        margin: 0 auto;
+        margin: 200px;
         text-align: center;
+        
     }
     #dropdown {
         width: 200px;
